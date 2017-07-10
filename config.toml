@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://kabturek.info" #without ending slash
+baseurl = "kabturek.info" #without ending slash
 languageCode = "en-us"
 title = "Marcin Domański"
 theme = "hugo-identity-theme"
